@@ -6,13 +6,12 @@ This project uncovers insights into customer spending patterns, product preferen
 
 🗂️ Repository Structure
 customer-shopping-behavior/
-│
-├── customer_shopping_behavior.csv       # Raw dataset
-├── Customer_Behavior_Analysis.py        # Python EDA & cleaning script
-├── Customer_Shopping_Analysis.sql       # SQL business queries
-├── Customer_Shopping_Behavior_Analysis_Report.docx  # Full project report
-├── CBD.png                              # Power BI dashboard screenshot
-└── README.md
+- customer_shopping_behavior.csv       # Raw dataset
+- Customer_Behavior_Analysis.py        # Python EDA & cleaning script
+- Customer_Shopping_Analysis.sql       # SQL business queries
+- Customer_Shopping_Behavior_Analysis_Report.docx  # Full project report
+- BD.png                              # Power BI dashboard screenshot
+- README.md
 
 🔧 Tools & Technologies
 ToolPurposePython (pandas, numpy)Data cleaning & feature engineeringSQLAlchemy + PyMySQLPython → MySQL connectionMySQL / PostgreSQLBusiness intelligence queriesPower BIInteractive dashboardJupyter NotebookEDA development environment
